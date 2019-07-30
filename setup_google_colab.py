@@ -14,7 +14,7 @@ def setup_common():
     os.system("pip install ChatterBot==0.7.6")
     os.system("pip install enum34==1.1.6")
     os.system("pip install funcsigs==1.0.2")
-    os.system("pip install gensim==3.1.0")
+    os.system("pip install gensim")
     os.system("pip install jedi==0.11.0")
     os.system("pip install libarchive==0.4.4")
     os.system("pip install mock==2.0.0")
